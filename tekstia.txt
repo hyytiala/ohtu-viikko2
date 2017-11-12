@@ -1,2 +1,7 @@
 tekstia tassa
+<<<<<<< HEAD
 tekstia myos
+=======
+lisaa tassa
+
+>>>>>>> 9f24e5199e6034737d35fd9ae82390c4e2e3c6da
